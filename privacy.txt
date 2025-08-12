@@ -2,126 +2,141 @@ Política de Privacidade – Mago do Estômago
 
 Última atualização: 12 de Agosto de 2025
 
-A presente Política de Privacidade descreve como o aplicativo "Mago do Estômago" ("nós", "nosso", "aplicativo") coleta, usa, armazena, compartilha e protege suas informações pessoais e de saúde. Ao utilizar o "Mago do Estômago", você concorda com as práticas descritas nesta Política.
+Esta Política de Privacidade do aplicativo "Mago do Estômago" foi elaborada para demonstrar nosso compromisso com a proteção de seus dados pessoais e de saúde, em conformidade com a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD) no Brasil e os rigorosos requisitos da Google Play Console para aplicativos de saúde. Ao utilizar o "Mago do Estômago", você concorda com as práticas descritas nesta Política.
 
-1. Nosso Compromisso com Sua Privacidade
+1. Controlador dos Dados
 
-No "Mago do Estômago", a sua privacidade e a segurança dos seus dados são de extrema importância. Estamos empenhados em proteger as informações que você compartilha conosco e em garantir a conformidade com as leis de proteção de dados relevantes, incluindo a Lei Geral de Proteção de Dados (Lei nº 13.709/2018 - LGPD) no Brasil e, quando aplicável, o Health Insurance Portability and Accountability Act (HIPAA) dos Estados Unidos.
+O aplicativo "Mago do Estômago" é operado por [Nome Legal da Sua Organização, conforme registrado na Play Console], uma organização devidamente constituída sob as leis do [País, ex: Brasil], com sede em [Endereço Completo da Sua Organização]. Como um aplicativo de saúde, reconhecemos a importância de operar como uma entidade jurídica (organização) perante o Google Play, o que reforça nosso compromisso com a transparência e a responsabilidade na gestão dos seus dados.
 
-2. Quais Informações Coletamos?
+2. Nosso Compromisso com Sua Privacidade e as Políticas do Google Play
 
-Para fornecer os serviços do "Mago do Estômago" e personalizar sua experiência, coletamos as seguintes categorias de informações:
+No "Mago do Estômago", a sua privacidade e a segurança dos seus dados são de extrema importância. Estamos empenhados em proteger as informações que você compartilha conosco e em garantir a conformidade não apenas com a LGPD, mas também com as rigorosas Políticas do Programa para Desenvolvedores do Google Play, incluindo a Política de Saúde, a Política de Serviços Financeiros (se aplicável a futuras funcionalidades), e quaisquer outras diretrizes relevantes para aplicativos de saúde. Entendemos que, como um aplicativo de saúde, estamos sujeitos a um escrutínio elevado, e nossa política de privacidade reflete essa responsabilidade, detalhando como coletamos, usamos, armazenamos e protegemos suas informações.
 
-    Informações de Identificação Pessoal:
+3. Quais Informações Coletamos?
+
+Para fornecer os serviços do "Mago do Estômago" e personalizar sua experiência, coletamos as seguintes categorias de informações, baseando-nos nos princípios da necessidade e da minimização de dados:
+
+    Informações de Identificação Pessoal e de Contato:
         Nome completo, data de nascimento, gênero.
         Informações de contato (endereço de e-mail, número de telefone).
-        Dados de login (nome de usuário e senha, se aplicável).
+        Dados de login (nome de usuário e senha, se aplicável, criptografados).
+        Essas informações são coletadas para identificar você como usuário e permitir a comunicação essencial para o suporte e funcionalidade do aplicativo.
 
     Informações de Saúde (Dados Sensíveis):
-        Histórico médico relevante para o tratamento de câncer gástrico e gastrectomia.
-        Sinais vitais (temperatura corporal, frequência cardíaca), registrados por você ou via integração com wearables (se ativada).
+        Histórico médico relevante para o tratamento de câncer gástrico e gastrectomia, conforme fornecido por você.
+        Sinais vitais (temperatura corporal, frequência cardíaca), registrados por você ou via integração com wearables (se ativada e com seu consentimento explícito).
         Registro de dores, inchaços, náuseas, vômitos e outros sintomas gastrointestinais.
         Informações sobre medicamentos (horários, dosagens), exames e consultas médicas.
         Detalhes sobre sua dieta e reintrodução alimentar.
         Informações sobre o plano de reabilitação e adesão a exercícios.
-        Quaisquer outras informações de saúde que você opte por registrar ou comunicar no aplicativo.
+        Quaisquer outras informações de saúde que você opte por registrar ou comunicar no aplicativo para seu autocuidado.
+        Coletamos esses dados de saúde apenas com seu consentimento explícito e para as finalidades específicas de suporte ao seu tratamento e recuperação, em linha com a LGPD e as categorias de apps de saúde do Google Play.
 
     Informações de Uso do Aplicativo:
-        Dados sobre como você interage com o aplicativo (telas visitadas, funcionalidades utilizadas, tempo gasto).
+        Dados sobre como você interage com o aplicativo (telas visitadas, funcionalidades utilizadas, tempo gasto, cliques).
         Preferências e configurações do aplicativo.
+        Esses dados são anonimizados ou pseudonimizados sempre que possível e utilizados para melhorar a experiência do usuário e otimizar o desempenho do aplicativo.
 
     Informações do Dispositivo:
         Modelo do dispositivo, sistema operacional, identificadores únicos do dispositivo.
         Informações de rede (endereço IP).
+        Essas informações são essenciais para garantir a compatibilidade e o bom funcionamento do aplicativo em seu dispositivo.
 
-    Informações de Cuidadores (se fornecidas):
-        Nome e informações de contato do cuidador, se o paciente optar por adicionar essa funcionalidade e o cuidador consentir.
+    Informações de Cuidadores (se fornecidas e com consentimento):
+        Nome e informações de contato do cuidador, se o paciente optar por adicionar essa funcionalidade e o cuidador consentir com o compartilhamento dessas informações com o paciente.
 
-3. Como Usamos Suas Informações?
+4. Como Usamos Suas Informações? (Finalidade do Tratamento)
 
-Utilizamos as informações coletadas para as seguintes finalidades:
+Utilizamos as informações coletadas estritamente para as seguintes finalidades, com base nas bases legais da LGPD:
 
-    Para Fornecer e Gerenciar os Serviços do Aplicativo:
+    Para Fornecer e Gerenciar os Serviços do Aplicativo (Execução de Contrato e Legítimo Interesse):
         Permitir o acesso e uso das funcionalidades do aplicativo (checklist pré-operatório, guia de recuperação, diário de saúde, lembretes, biblioteca de conteúdos).
-        Personalizar seu plano de cuidados, reabilitação e recomendações alimentares.
-        Enviar notificações e lembretes sobre medicamentos, consultas e exames.
-        Facilitar a comunicação (se consentido) com sua equipe de saúde para tirar dúvidas urgentes e acompanhar seu progresso.
+        Personalizar seu plano de cuidados, reabilitação e recomendações alimentares com base nos dados fornecidos.
+        Enviar notificações e lembretes sobre medicamentos, consultas e exames programados.
+        Facilitar a comunicação (se consentido) com sua equipe de saúde para tirar dúvidas urgentes e acompanhar seu progresso, conforme as funcionalidades do aplicativo.
 
-    Para Melhorar e Desenvolver o Aplicativo:
-        Analisar tendências de uso e comportamento para otimizar funcionalidades e usabilidade.
-        Realizar pesquisas e análises para aprimorar a eficácia do autocuidado e dos materiais educacionais.
+    Para Melhorar e Desenvolver o Aplicativo (Legítimo Interesse e Pesquisa, com Anonimização):
+        Analisar tendências de uso e comportamento (preferencialmente com dados anonimizados ou pseudonimizados) para otimizar funcionalidades, usabilidade e desempenho do aplicativo.
+        Realizar pesquisas e análises estatísticas sobre a eficácia do autocuidado e dos materiais educacionais, sempre visando o benefício coletivo e sem identificar usuários individuais.
 
-    Para Comunicação:
+    Para Comunicação (Consentimento ou Legítimo Interesse):
         Responder às suas dúvidas, solicitações de suporte e feedback.
-        Enviar atualizações importantes sobre o aplicativo ou esta Política.
+        Enviar atualizações importantes sobre o aplicativo, mudanças em funcionalidades ou nesta Política.
 
-    Para Segurança e Conformidade Legal:
-        Proteger contra fraudes, acessos não autorizados e outras atividades ilegais.
-        Garantir a conformidade com as obrigações legais e regulatórias (LGPD, HIPAA, etc.).
+    Para Segurança e Conformidade Legal (Obrigação Legal e Legítimo Interesse):
+        Proteger contra fraudes, acessos não autorizados, uso indevido e outras atividades ilegais.
+        Garantir a conformidade com as obrigações legais e regulatórias (LGPD, Políticas do Google Play, etc.).
+        Monitorar o cumprimento dos Termos de Serviço do aplicativo.
 
-4. Como Compartilhamos Suas Informações?
+5. Como Compartilhamos Suas Informações? (Com Transparência e Segurança)
 
-Não compartilhamos suas informações pessoais e de saúde com terceiros, exceto nas seguintes situações:
+Não vendemos, alugamos ou comercializamos suas informações pessoais ou de saúde. O compartilhamento ocorre apenas nas seguintes situações, sempre com base legal e de forma controlada:
 
-    Com Sua Equipe de Saúde (com seu consentimento explícito):
-        Para a funcionalidade "Contato Rápido com a Equipe Médica", e outras interações que visem o acompanhamento multiprofissional, suas informações de saúde podem ser compartilhadas com os profissionais de saúde cadastrados e indicados por você, mediante seu consentimento claro, específico e informado. Você terá controle sobre quais informações são compartilhadas e com quem.
+    Com Sua Equipe de Saúde (com Seu Consentimento Explícito e Controlado):
+        Para a funcionalidade "Contato Rápido com a Equipe Médica" e outras interações que visem o acompanhamento multiprofissional, suas informações de saúde podem ser compartilhadas com os profissionais de saúde cadastrados e indicados por você, mediante seu consentimento claro, específico e informado. Você terá controle sobre quais informações são compartilhadas e com quem, e poderá revogar este consentimento a qualquer momento.
 
-    Com Prestadores de Serviços:
-        Podemos contratar terceiros para realizar serviços em nosso nome, como hospedagem de dados, análise de dados, serviços de TI e suporte técnico. Esses prestadores de serviços têm acesso às suas informações apenas para executar suas funções e são contratualmente obrigados a manter a confidencialidade e segurança de seus dados.
+    Com Prestadores de Serviços e SDKs de Terceiros (Necessidade e Contrato):
+        Podemos contratar terceiros para realizar serviços em nosso nome, como hospedagem de dados, serviços de infraestrutura tecnológica, plataformas de envio de notificações, e ferramentas de análise de uso (SDKs de terceiros).
+        Esses prestadores de serviços têm acesso às suas informações apenas para executar suas funções e são contratualmente obrigados a manter a confidencialidade e segurança de seus dados, aderindo às mesmas garantias de proteção de dados que nós.
+        Para ferramentas de análise de uso, buscamos sempre parceiros que priorizem a anonimização ou pseudonimização dos dados e que estejam em conformidade com as políticas do Google Play para SDKs de terceiros e com as leis de privacidade.
+        Não utilizamos esses serviços para fins de publicidade direcionada ou monetização de seus dados de saúde.
 
-    Dados Agregados e Anonimizados:
-        Podemos compartilhar informações de uso e de saúde agregadas e/ou anonimizadas, que não identificam você individualmente, para fins de pesquisa, análise estatística, desenvolvimento de produtos, relatórios e marketing. Por exemplo, podemos divulgar o número médio de usuários que utilizam uma determinada funcionalidade.
+    Dados Agregados e Anonimizados (Pesquisa e Desenvolvimento):
+        Podemos compartilhar informações de uso e de saúde que foram agregadas e/ou completamente anonimizadas, de forma que não seja possível identificar você individualmente. Esses dados são utilizados para fins de pesquisa científica (com a devida aprovação ética, quando necessário), análise estatística, desenvolvimento de produtos, relatórios de saúde pública e para demonstrar a eficácia do aplicativo.
 
-    Conformidade Legal e Proteção:
-        Poderemos divulgar suas informações se exigido por lei, ordem judicial ou regulamentação governamental.
-        Também poderemos divulgar informações para proteger nossos direitos, propriedade ou segurança, ou os direitos, propriedade ou segurança de nossos usuários ou do público.
+    Conformidade Legal e Proteção (Obrigação Legal e Legítimo Interesse):
+        Poderemos divulgar suas informações se exigido por lei, ordem judicial, intimação ou regulamentação governamental, ou se acreditarmos de boa-fé que a divulgação é necessária para proteger nossos direitos, propriedade ou segurança, ou os direitos, propriedade ou segurança de nossos usuários ou do público.
 
-    Transferência de Negócios:
-        Em caso de fusão, aquisição, venda de ativos ou insolvência, suas informações poderão ser transferidas para a entidade sucessora, desde que esta se comprometa a cumprir esta Política de Privacidade ou uma política similar que garanta a proteção de seus dados.
+    Transferência de Negócios (Comunicação Prévia e Continuidade da Proteção):
+        Em caso de fusão, aquisição, venda de ativos ou insolvência, suas informações poderão ser transferidas para a entidade sucessora. Neste cenário, garantiremos que a entidade sucessora se comprometa a cumprir esta Política de Privacidade ou uma política similar que assegure o mesmo nível de proteção de seus dados. Você será notificado sobre tal transferência.
 
-5. Segurança das Suas Informações
+6. Segurança das Suas Informações (Um Pilar Fundamental)
 
-Implementamos medidas de segurança técnicas, administrativas e físicas para proteger suas informações contra acesso não autorizado, uso indevido, alteração, destruição ou divulgação. Essas medidas incluem:
+Implementamos medidas de segurança técnicas, administrativas e físicas robustas para proteger suas informações contra acesso não autorizado, uso indevido, alteração, destruição ou divulgação. Nossas práticas de segurança são revisadas regularmente e incluem:
 
-    Criptografia: Criptografia de dados em trânsito e em repouso.
-    Controles de Acesso: Acesso restrito às informações apenas para o pessoal autorizado que necessita delas para desempenhar suas funções.
-    Conformidade: Seguimos as melhores práticas de segurança da informação e estamos em conformidade com as diretrizes da LGPD e HIPAA.
-    Backups: Realizamos backups regulares para prevenir a perda de dados.
+    Criptografia: Utilização de criptografia de ponta para proteger seus dados tanto em trânsito (durante a transmissão entre seu dispositivo e nossos servidores) quanto em repouso (armazenados em nossos bancos de dados).
+    Controles de Acesso Rigorosos: Acesso restrito às informações apenas para o pessoal autorizado que necessita delas para desempenhar suas funções, com autenticação multifator e logs de acesso.
+    Conformidade com Padrões: Seguimos as melhores práticas de segurança da informação do setor, alinhadas com as diretrizes do Google Play para segurança de dados e as exigências da LGPD e, quando aplicável, do HIPAA.
+    Anonimização e Pseudonimização: Sempre que possível e para fins de análise ou pesquisa, empregamos técnicas de anonimização e pseudonimização para proteger sua identidade.
+    Auditorias e Testes: Realizamos auditorias de segurança e testes de penetração regulares para identificar e corrigir possíveis vulnerabilidades.
+    Backup e Recuperação de Desastres: Mantemos planos robustos de backup e recuperação de desastres para garantir a disponibilidade e integridade dos dados em caso de incidentes.
+    Minimização de Dados: Coletamos apenas os dados estritamente necessários para as finalidades informadas.
 
-Apesar de nossos esforços, nenhum sistema de segurança é impenetrável. Não podemos garantir a segurança absoluta das suas informações. Recomendamos que você proteja suas credenciais de acesso ao aplicativo e utilize senhas fortes e únicas.
+Apesar de nossos esforços contínuos, nenhum sistema de segurança de dados é absolutamente impenetrável. Recomendamos que você adote boas práticas de segurança, como usar senhas fortes e únicas para o aplicativo e manter seu dispositivo seguro.
 
-6. Seus Direitos como Titular dos Dados (LGPD)
+7. Seus Direitos como Titular dos Dados (LGPD)
 
-De acordo com a LGPD, você possui os seguintes direitos em relação aos seus dados pessoais:
+Em total conformidade com a LGPD, você possui os seguintes direitos em relação aos seus dados pessoais e de saúde:
 
-    Direito de Acesso: Você pode solicitar acesso às suas informações pessoais que mantemos.
+    Direito de Acesso: Você pode solicitar acesso e confirmação da existência do tratamento de suas informações pessoais que mantemos.
     Direito de Retificação: Você pode solicitar a correção de informações incompletas, inexatas ou desatualizadas.
-    Direito de Exclusão (Esquecimento): Você pode solicitar a exclusão de suas informações pessoais, ressalvadas as hipóteses legais de guarda.
-    Direito de Oposição: Você pode se opor ao tratamento de seus dados em determinadas situações.
-    Direito à Portabilidade: Você pode solicitar a transferência de seus dados para outro fornecedor de serviço ou produto.
-    Direito à Revogação do Consentimento: Você pode retirar seu consentimento a qualquer momento para o tratamento de dados baseado em consentimento. Isso não afetará a legalidade do tratamento realizado antes da revogação.
+    Direito de Exclusão (Esquecimento): Você pode solicitar a exclusão de suas informações pessoais, ressalvadas as hipóteses legais de guarda (ex: cumprimento de obrigação legal).
+    Direito de Oposição: Você pode se opor ao tratamento de seus dados em determinadas situações, como para fins de marketing (se aplicável), ou se o tratamento for baseado no legítimo interesse e você contestar tal base.
+    Direito à Portabilidade: Você pode solicitar a transferência de seus dados para outro fornecedor de serviço ou produto, em formato interoperável.
+    Direito à Revogação do Consentimento: Você pode retirar seu consentimento a qualquer momento para o tratamento de dados que se baseia em seu consentimento. Isso não afetará a legalidade do tratamento realizado antes da revogação.
     Direito à Informação sobre o Compartilhamento: Você tem o direito de saber com quais entidades públicas e privadas nós compartilhamos seus dados.
+    Direito à Revisão de Decisões Automatizadas: Você tem o direito de solicitar a revisão de decisões tomadas unicamente com base em tratamento automatizado de dados que afetem seus interesses, incluindo a definição de seu perfil pessoal, profissional, de consumo e de crédito ou os aspectos de sua personalidade.
 
-Para exercer qualquer um desses direitos, entre em contato conosco através dos canais indicados na Seção "Contato".
+Para exercer qualquer um desses direitos, entre em contato conosco através dos canais indicados na Seção "Contato". Responderemos à sua solicitação dentro dos prazos estabelecidos pela LGPD.
 
-7. Retenção de Dados
+8. Retenção de Dados
 
-Reteremos suas informações pessoais e de saúde apenas pelo tempo necessário para cumprir as finalidades descritas nesta Política de Privacidade, a menos que um período de retenção mais longo seja exigido ou permitido por lei (por exemplo, para fins regulatórios ou legais).
+Reteremos suas informações pessoais e de saúde apenas pelo tempo necessário para cumprir as finalidades descritas nesta Política de Privacidade e para fornecer os serviços do aplicativo. Após este período, seus dados serão excluídos ou anonimizados, a menos que um período de retenção mais longo seja exigido ou permitido por lei (por exemplo, para obrigações regulatórias, fiscais ou legais).
 
-8. Links de Terceiros
+9. Links de Terceiros e Conteúdo Externo
 
-O aplicativo "Mago do Estômago" pode conter links para sites ou serviços de terceiros. Não somos responsáveis pelas práticas de privacidade ou conteúdo desses terceiros. Recomendamos que você revise as políticas de privacidade de qualquer site ou serviço de terceiros antes de fornecer suas informações.
+O aplicativo "Mago do Estômago" pode conter links para sites ou serviços de terceiros (ex: artigos científicos externos, vídeos educacionais). Não somos responsáveis pelas práticas de privacidade ou conteúdo desses terceiros. Recomendamos fortemente que você revise as políticas de privacidade de qualquer site ou serviço de terceiros antes de fornecer suas informações.
 
-9. Privacidade de Crianças
+10. Privacidade de Crianças (Conforme Política para Famílias do Google Play)
 
-O "Mago do Estômago" não se destina a menores de 18 anos. Não coletamos intencionalmente informações pessoais de crianças. Se tomarmos conhecimento de que coletamos informações de uma criança sem o consentimento dos pais ou responsável, tomaremos medidas para remover essas informações de nossos servidores.
+O "Mago do Estômago" foi desenvolvido para um público adulto (maiores de 18 anos) e não se destina a crianças. Em linha com a Política para Famílias do Google Play, não coletamos intencionalmente informações pessoais de menores de 18 anos. Se tomarmos conhecimento de que coletamos informações de uma criança sem o consentimento verificável dos pais ou responsável, tomaremos medidas imediatas para remover essas informações de nossos servidores.
 
-10. Alterações Nesta Política de Privacidade
+11. Alterações Nesta Política de Privacidade
 
-Podemos atualizar nossa Política de Privacidade periodicamente para refletir mudanças em nossas práticas de dados ou em requisitos legais. Quaisquer alterações serão publicadas nesta página com uma nova "data de última atualização". Notificaremos você sobre mudanças significativas por meio de notificação no aplicativo ou por e-mail. Sugerimos que você revise esta Política de Privacidade regularmente.
+Podemos atualizar nossa Política de Privacidade periodicamente para refletir mudanças em nossas práticas de dados, na legislação aplicável ou nos requisitos do Google Play. Quaisquer alterações serão publicadas nesta página com uma nova "data de última atualização". Notificaremos você sobre mudanças significativas por meio de notificação no aplicativo ou por e-mail, garantindo que você esteja sempre ciente de como seus dados são tratados. Sugerimos que você revise esta Política de Privacidade regularmente.
 
-11. Contato
+12. Contato
 
-Se você tiver dúvidas, comentários ou preocupações sobre esta Política de Privacidade ou sobre as práticas de privacidade do "Mago do Estômago", entre em contato conosco através do seguinte canal:
+Se você tiver dúvidas, comentários ou preocupações sobre esta Política de Privacidade ou sobre as práticas de privacidade do "Mago do Estômago", ou desejar exercer seus direitos como titular dos dados, entre em contato conosco através do seguinte canal:
 
-E-mail: [Seu E-mail de Suporte – por exemplo: suporte@magodoestomago.com.br]
+E-mail: suporte@magodoestomago.com.br
